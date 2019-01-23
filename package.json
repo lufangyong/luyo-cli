@@ -1,6 +1,6 @@
 {
   "name": "luyo-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple and easy",
   "main": "index.js",
   "scripts": {
